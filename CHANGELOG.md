@@ -7,3 +7,4 @@
 - [2025-02-24T23:33:45.190Z] Update dependencies
 - [2025-02-28T01:19:05.524Z] Add loading skeleton to product page
 - [2025-02-27T22:10:14.597Z] Add unit tests for reducers
+- [2025-02-28T21:42:51.885Z] Optimize image loading with lazy load
