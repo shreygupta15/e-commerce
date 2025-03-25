@@ -18,3 +18,4 @@
 - [2025-03-24T23:14:43.877Z] Update API endpoints
 - [2025-03-25T19:19:55.848Z] Refactor cart components
 - [2025-03-25T23:55:29.676Z] Add loading skeleton to product page
+- [2025-03-25T20:28:34.155Z] Fix bug in checkout flow
