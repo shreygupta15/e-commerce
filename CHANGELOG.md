@@ -20,3 +20,4 @@
 - [2025-03-25T23:55:29.676Z] Add loading skeleton to product page
 - [2025-03-25T20:28:34.155Z] Fix bug in checkout flow
 - [2025-03-26T19:04:33.955Z] Tweak UI for mobile
+- [2025-03-27T20:08:22.160Z] Tweak UI for mobile
