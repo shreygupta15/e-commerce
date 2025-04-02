@@ -28,3 +28,4 @@
 - [2025-04-01T23:10:34.448Z] Add admin dashboard layout
 - [2025-04-02T19:02:30.180Z] Improve performance
 - [2025-04-02T22:26:21.066Z] Update dependencies
+- [2025-04-02T19:05:13.385Z] Fix typo in footer
