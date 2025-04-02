@@ -29,3 +29,4 @@
 - [2025-04-02T19:02:30.180Z] Improve performance
 - [2025-04-02T22:26:21.066Z] Update dependencies
 - [2025-04-02T19:05:13.385Z] Fix typo in footer
+- [2025-04-02T23:54:10.826Z] Update API endpoints
