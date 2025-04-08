@@ -31,3 +31,4 @@
 - [2025-04-02T19:05:13.385Z] Fix typo in footer
 - [2025-04-02T23:54:10.826Z] Update API endpoints
 - [2025-04-07T18:21:16.377Z] Fix user session bug
+- [2025-04-08T20:08:25.763Z] Add new payment gateway integration
