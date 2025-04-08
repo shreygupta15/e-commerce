@@ -34,3 +34,4 @@
 - [2025-04-08T20:08:25.763Z] Add new payment gateway integration
 - [2025-04-08T22:48:01.760Z] Fix user session bug
 - [2025-04-08T19:54:37.084Z] Fix responsive layout on tablets
+- [2025-04-08T19:03:58.740Z] Fix bug in checkout flow
