@@ -37,3 +37,4 @@
 - [2025-04-08T19:03:58.740Z] Fix bug in checkout flow
 - [2025-04-08T19:48:44.678Z] Update dependencies
 - [2025-04-09T19:27:45.497Z] Fix bug in checkout flow
+- [2025-04-09T21:51:16.838Z] Add unit tests for reducers
