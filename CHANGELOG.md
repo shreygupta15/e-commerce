@@ -39,3 +39,4 @@
 - [2025-04-09T19:27:45.497Z] Fix bug in checkout flow
 - [2025-04-09T21:51:16.838Z] Add unit tests for reducers
 - [2025-04-09T23:12:47.894Z] Fix styling issues in product card
+- [2025-04-09T18:47:32.178Z] Update README.md
