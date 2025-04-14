@@ -44,3 +44,4 @@
 - [2025-04-11T19:43:16.913Z] Optimize image loading with lazy load
 - [2025-04-13T23:47:54.157Z] Update dependencies
 - [2025-04-14T19:04:12.098Z] Tweak UI for mobile
+- [2025-04-14T21:58:11.193Z] Add admin dashboard layout
