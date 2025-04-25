@@ -48,3 +48,4 @@
 - [2025-04-15T20:43:44.625Z] Tweak UI for mobile
 - [2025-04-17T23:57:32.240Z] Add admin dashboard layout
 - [2025-04-21T19:24:11.997Z] Tweak UI for mobile
+- [2025-04-25T18:22:59.132Z] Add admin dashboard layout
