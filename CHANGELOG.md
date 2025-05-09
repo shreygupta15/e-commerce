@@ -50,3 +50,4 @@
 - [2025-04-21T19:24:11.997Z] Tweak UI for mobile
 - [2025-04-25T18:22:59.132Z] Add admin dashboard layout
 - [2025-04-29T01:17:48.350Z] Update dependencies
+- [2025-05-09T20:00:09.878Z] Fix responsive layout on tablets
