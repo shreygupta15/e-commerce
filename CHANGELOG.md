@@ -59,3 +59,4 @@
 - [2025-05-19T19:54:24.900Z] Update README.md
 - [2025-05-21T18:39:16.286Z] Tweak UI for mobile
 - [2025-05-21T18:41:30.820Z] Implement JWT authentication
+- [2025-05-21T18:35:47.118Z] Update API endpoints
