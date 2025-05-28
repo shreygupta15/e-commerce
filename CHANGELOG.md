@@ -63,3 +63,4 @@
 - [2025-05-22T22:09:44.980Z] Fix user session bug
 - [2025-05-28T01:09:57.577Z] Update product list API
 - [2025-05-28T18:36:39.689Z] Fix typo in footer
+- [2025-05-28T23:06:02.283Z] Add loading skeleton to product page
