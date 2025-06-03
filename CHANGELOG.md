@@ -67,3 +67,4 @@
 - [2025-05-29T23:41:52.419Z] Add admin dashboard layout
 - [2025-05-30T00:32:30.904Z] Improve performance
 - [2025-06-02T18:25:54.159Z] Update product list API
+- [2025-06-03T22:04:31.026Z] Clean up unused code
