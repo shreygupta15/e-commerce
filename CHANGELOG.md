@@ -70,3 +70,4 @@
 - [2025-06-03T22:04:31.026Z] Clean up unused code
 - [2025-06-05T01:20:36.005Z] Update README.md
 - [2025-06-07T21:51:38.663Z] Fix styling issues in product card
+- [2025-06-11T00:19:32.213Z] Update cart logic
