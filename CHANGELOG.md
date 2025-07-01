@@ -81,3 +81,4 @@
 - [2025-06-26T20:14:11.777Z] Add new payment gateway integration
 - [2025-07-02T00:29:41.021Z] Refactor state management using Redux Toolkit
 - [2025-07-01T19:26:07.797Z] Add loading skeleton to product page
+- [2025-07-01T21:10:41.119Z] Fix typo in footer
