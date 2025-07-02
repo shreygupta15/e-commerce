@@ -83,3 +83,4 @@
 - [2025-07-01T19:26:07.797Z] Add loading skeleton to product page
 - [2025-07-01T21:10:41.119Z] Fix typo in footer
 - [2025-07-01T21:30:16.226Z] Fix bug in checkout flow
+- [2025-07-02T18:13:09.380Z] Tweak UI for mobile
