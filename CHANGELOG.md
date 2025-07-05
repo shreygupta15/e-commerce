@@ -86,3 +86,4 @@
 - [2025-07-02T18:13:09.380Z] Tweak UI for mobile
 - [2025-07-03T00:27:54.094Z] Implement JWT authentication
 - [2025-07-03T19:58:15.566Z] Update dependencies
+- [2025-07-05T19:06:36.696Z] Update README.md
