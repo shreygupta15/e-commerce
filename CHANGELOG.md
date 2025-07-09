@@ -89,3 +89,4 @@
 - [2025-07-05T19:06:36.696Z] Update README.md
 - [2025-07-08T22:15:59.881Z] Add admin dashboard layout
 - [2025-07-08T19:48:26.563Z] Add admin dashboard layout
+- [2025-07-09T19:16:29.197Z] Tweak UI for mobile
