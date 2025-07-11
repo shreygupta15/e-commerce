@@ -92,3 +92,4 @@
 - [2025-07-09T19:16:29.197Z] Tweak UI for mobile
 - [2025-07-11T01:25:19.547Z] Fix bug in checkout flow
 - [2025-07-10T21:40:30.053Z] Fix typo in footer
+- [2025-07-11T19:26:02.775Z] Update cart logic
