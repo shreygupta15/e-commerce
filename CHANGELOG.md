@@ -94,3 +94,4 @@
 - [2025-07-10T21:40:30.053Z] Fix typo in footer
 - [2025-07-11T19:26:02.775Z] Update cart logic
 - [2025-07-15T19:16:06.753Z] Update dependencies
+- [2025-07-15T19:41:21.089Z] Fix responsive layout on tablets
