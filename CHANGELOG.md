@@ -96,3 +96,4 @@
 - [2025-07-15T19:16:06.753Z] Update dependencies
 - [2025-07-15T19:41:21.089Z] Fix responsive layout on tablets
 - [2025-07-16T18:49:28.697Z] Update API endpoints
+- [2025-07-23T00:11:00.155Z] Update API endpoints
