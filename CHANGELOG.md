@@ -99,3 +99,4 @@
 - [2025-07-23T00:11:00.155Z] Update API endpoints
 - [2025-07-24T18:58:23.310Z] Fix user session bug
 - [2025-07-24T21:25:03.589Z] Add unit tests for reducers
+- [2025-07-26T01:28:22.147Z] Update API endpoints
