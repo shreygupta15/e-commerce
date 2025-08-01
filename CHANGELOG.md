@@ -105,3 +105,4 @@
 - [2025-07-29T20:33:56.387Z] Clean up unused code
 - [2025-07-29T21:35:27.671Z] Tweak UI for mobile
 - [2025-08-01T19:42:12.026Z] Update product list API
+- [2025-08-01T19:35:56.070Z] Implement JWT authentication
