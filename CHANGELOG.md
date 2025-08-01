@@ -104,3 +104,4 @@
 - [2025-07-28T23:19:26.084Z] Add new payment gateway integration
 - [2025-07-29T20:33:56.387Z] Clean up unused code
 - [2025-07-29T21:35:27.671Z] Tweak UI for mobile
+- [2025-08-01T19:42:12.026Z] Update product list API
