@@ -114,3 +114,4 @@
 - [2025-08-15T22:49:33.302Z] Implement JWT authentication
 - [2025-08-15T20:23:22.530Z] Fix styling issues in product card
 - [2025-08-15T19:06:19.512Z] Refactor state management using Redux Toolkit
+- [2025-08-15T18:34:49.834Z] Tweak UI for mobile
