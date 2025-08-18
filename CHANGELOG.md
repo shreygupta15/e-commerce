@@ -116,3 +116,4 @@
 - [2025-08-15T19:06:19.512Z] Refactor state management using Redux Toolkit
 - [2025-08-15T18:34:49.834Z] Tweak UI for mobile
 - [2025-08-15T20:51:12.621Z] Update dependencies
+- [2025-08-18T22:46:01.045Z] Fix user session bug
