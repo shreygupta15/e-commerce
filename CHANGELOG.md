@@ -124,3 +124,4 @@
 - [2025-08-26T23:07:53.413Z] Update cart logic
 - [2025-08-28T00:55:30.649Z] Fix user session bug
 - [2025-08-29T18:14:54.219Z] Add admin dashboard layout
+- [2025-08-30T01:44:25.745Z] Clean up unused code
