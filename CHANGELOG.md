@@ -126,3 +126,4 @@
 - [2025-08-29T18:14:54.219Z] Add admin dashboard layout
 - [2025-08-30T01:44:25.745Z] Clean up unused code
 - [2025-09-02T01:17:07.346Z] Update product list API
+- [2025-09-03T20:22:20.377Z] Update cart logic
