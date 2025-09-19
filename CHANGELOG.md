@@ -131,3 +131,4 @@
 - [2025-09-13T21:07:20.620Z] Fix styling issues in product card
 - [2025-09-15T22:14:01.592Z] Tweak UI for mobile
 - [2025-09-17T00:40:09.711Z] Fix bug in checkout flow
+- [2025-09-19T20:52:28.751Z] Add new payment gateway integration
