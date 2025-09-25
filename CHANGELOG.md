@@ -138,3 +138,4 @@
 - [2025-09-23T22:35:00.023Z] Add unit tests for reducers
 - [2025-09-25T00:51:57.630Z] Add loading skeleton to product page
 - [2025-09-26T00:04:13.264Z] Implement JWT authentication
+- [2025-09-25T21:41:47.889Z] Update cart logic
