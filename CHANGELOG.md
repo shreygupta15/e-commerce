@@ -150,3 +150,4 @@
 - [2025-10-10T18:26:54.321Z] Implement JWT authentication
 - [2025-10-13T00:27:15.877Z] Tweak UI for mobile
 - [2025-10-14T00:41:49.004Z] Update cart logic
+- [2025-10-22T23:05:02.632Z] Clean up unused code
