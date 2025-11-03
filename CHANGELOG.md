@@ -154,3 +154,4 @@
 - [2025-10-22T22:21:48.153Z] Update product list API
 - [2025-10-30T20:20:44.439Z] Implement JWT authentication
 - [2025-10-31T20:16:26.897Z] Optimize image loading with lazy load
+- [2025-11-03T01:15:45.638Z] Add unit tests for reducers
