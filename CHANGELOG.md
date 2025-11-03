@@ -157,3 +157,4 @@
 - [2025-11-03T01:15:45.638Z] Add unit tests for reducers
 - [2025-11-03T21:33:42.471Z] Add loading skeleton to product page
 - [2025-11-04T00:49:09.349Z] Tweak UI for mobile
+- [2025-11-03T20:18:45.156Z] Update cart logic
