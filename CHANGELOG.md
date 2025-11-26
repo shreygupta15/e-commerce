@@ -175,3 +175,4 @@
 - [2025-11-22T22:24:30.636Z] Update README.md
 - [2025-11-25T01:18:20.565Z] Update API endpoints
 - [2025-11-27T01:41:19.442Z] Add admin dashboard layout
+- [2025-11-26T19:01:39.957Z] Refactor state management using Redux Toolkit
