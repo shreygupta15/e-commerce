@@ -181,3 +181,4 @@
 - [2025-11-26T21:40:00.979Z] Add admin dashboard layout
 - [2025-11-27T23:24:54.275Z] Update README.md
 - [2025-11-27T19:13:12.586Z] Fix responsive layout on tablets
+- [2025-11-27T21:20:29.005Z] Clean up unused code
