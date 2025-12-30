@@ -194,3 +194,4 @@
 - [2025-12-24T00:43:12.374Z] Implement JWT authentication
 - [2025-12-25T20:39:46.867Z] Optimize image loading with lazy load
 - [2025-12-27T20:59:26.900Z] Fix bug in checkout flow
+- [2025-12-30T22:23:57.642Z] Add admin dashboard layout
