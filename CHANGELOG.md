@@ -198,3 +198,4 @@
 - [2026-01-01T01:12:54.405Z] Add new payment gateway integration
 - [2026-01-08T20:44:13.928Z] Update README.md
 - [2026-01-11T01:59:26.692Z] Update product list API
+- [2026-01-12T00:20:46.213Z] Update API endpoints
