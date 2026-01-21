@@ -207,3 +207,4 @@
 - [2026-01-17T19:14:38.769Z] Implement JWT authentication
 - [2026-01-19T19:29:48.797Z] Add new payment gateway integration
 - [2026-01-20T20:25:41.340Z] Implement JWT authentication
+- [2026-01-21T22:08:39.806Z] Add unit tests for reducers
