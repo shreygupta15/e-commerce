@@ -226,3 +226,4 @@
 - [2026-02-06T19:01:19.989Z] Add loading skeleton to product page
 - [2026-02-08T21:56:57.907Z] Fix responsive layout on tablets
 - [2026-02-10T00:34:49.648Z] Add admin dashboard layout
+- [2026-02-11T21:54:54.629Z] Clean up unused code
