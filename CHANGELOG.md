@@ -237,3 +237,4 @@
 - [2026-02-25T22:29:30.736Z] Refactor cart components
 - [2026-02-25T22:13:54.510Z] Refactor cart components
 - [2026-02-27T18:56:41.328Z] Fix bug in checkout flow
+- [2026-02-27T20:30:59.103Z] Update README.md
