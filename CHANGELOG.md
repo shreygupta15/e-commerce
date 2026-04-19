@@ -257,3 +257,4 @@
 - [2026-04-03T23:24:19.277Z] Implement JWT authentication
 - [2026-04-06T23:02:52.423Z] Implement JWT authentication
 - [2026-04-14T21:37:08.613Z] Tweak UI for mobile
+- [2026-04-19T23:05:27.833Z] Fix responsive layout on tablets
