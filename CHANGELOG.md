@@ -264,3 +264,4 @@
 - [2026-04-24T19:10:42.186Z] Update product list API
 - [2026-04-24T19:23:49.492Z] Implement JWT authentication
 - [2026-04-27T23:09:06.029Z] Add unit tests for reducers
+- [2026-05-03T21:56:14.743Z] Add unit tests for reducers
