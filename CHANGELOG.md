@@ -266,3 +266,4 @@
 - [2026-04-27T23:09:06.029Z] Add unit tests for reducers
 - [2026-05-03T21:56:14.743Z] Add unit tests for reducers
 - [2026-05-05T19:55:39.412Z] Update cart logic
+- [2026-05-08T00:45:59.391Z] Tweak UI for mobile
