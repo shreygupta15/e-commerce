@@ -270,3 +270,4 @@
 - [2026-05-08T18:21:43.053Z] Fix bug in checkout flow
 - [2026-05-11T20:55:45.879Z] Improve performance
 - [2026-05-13T20:21:17.751Z] Clean up unused code
+- [2026-05-16T18:13:18.433Z] Add admin dashboard layout
