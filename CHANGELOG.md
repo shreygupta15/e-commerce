@@ -273,3 +273,4 @@
 - [2026-05-16T18:13:18.433Z] Add admin dashboard layout
 - [2026-05-20T21:43:35.160Z] Update product list API
 - [2026-05-22T23:07:46.084Z] Tweak UI for mobile
+- [2026-05-27T21:22:05.870Z] Tweak UI for mobile
