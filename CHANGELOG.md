@@ -276,3 +276,4 @@
 - [2026-05-27T21:22:05.870Z] Tweak UI for mobile
 - [2026-05-27T21:56:18.835Z] Add loading skeleton to product page
 - [2026-05-27T23:10:12.748Z] Improve performance
+- [2026-05-27T21:56:30.644Z] Update product list API
