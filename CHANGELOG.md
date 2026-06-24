@@ -289,3 +289,4 @@
 - [2026-06-18T22:08:00.248Z] Add admin dashboard layout
 - [2026-06-19T20:43:33.720Z] Update product list API
 - [2026-06-19T20:38:53.947Z] Add loading skeleton to product page
+- [2026-06-24T22:04:09.071Z] Fix responsive layout on tablets
