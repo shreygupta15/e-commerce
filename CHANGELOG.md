@@ -294,3 +294,4 @@
 - [2026-06-25T23:17:07.653Z] Add loading skeleton to product page
 - [2026-06-25T23:56:30.872Z] Add loading skeleton to product page
 - [2026-06-25T23:58:33.453Z] Fix responsive layout on tablets
+- [2026-06-28T00:45:27.704Z] Refactor cart components
