@@ -299,3 +299,4 @@
 - [2026-07-03T00:52:28.348Z] Add admin dashboard layout
 - [2026-07-02T20:21:41.183Z] Tweak UI for mobile
 - [2026-07-06T22:45:36.522Z] Clean up unused code
+- [2026-07-06T23:34:56.546Z] Refactor state management using Redux Toolkit
