@@ -314,3 +314,4 @@
 - [2026-07-28T18:21:51.924Z] Fix typo in footer
 - [2026-07-29T21:07:50.270Z] Update README.md
 - [2026-08-01T00:50:21.690Z] Update API endpoints
+- [2026-08-01T19:56:35.987Z] Fix bug in checkout flow
