@@ -316,3 +316,4 @@
 - [2026-08-01T00:50:21.690Z] Update API endpoints
 - [2026-08-01T19:56:35.987Z] Fix bug in checkout flow
 - [2026-08-06T01:21:54.390Z] Update dependencies
+- [2026-08-14T00:00:54.296Z] Add loading skeleton to product page
