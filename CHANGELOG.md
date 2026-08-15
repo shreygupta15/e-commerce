@@ -318,3 +318,4 @@
 - [2026-08-06T01:21:54.390Z] Update dependencies
 - [2026-08-14T00:00:54.296Z] Add loading skeleton to product page
 - [2026-08-13T23:00:27.230Z] Add loading skeleton to product page
+- [2026-08-15T19:48:59.440Z] Clean up unused code
